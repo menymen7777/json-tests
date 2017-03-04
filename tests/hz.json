@@ -1,0 +1,29 @@
+{
+    "1": {
+        "question": "What is your name?",
+        "answers": {
+           "a": "Vlad",
+           "b": "Stas",
+           "c": "Fal"
+        },
+        "rightAnswer": "b"
+    },
+    "2": {
+        "question": "What is your surname?",
+        "answers": {
+          "a": "Tunin",
+          "b": "Proskutrin",
+          "c": "Amperchik"
+        },
+        "rightAnswer": "a"
+    },
+    "3": {
+        "question": "Who is mudila",
+        "answers": {
+          "a": "You",
+          "b": "Me",
+          "c": "Your chief"
+        },
+        "rightAnswer": "c"
+    }
+}
